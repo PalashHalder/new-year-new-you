@@ -212,6 +212,16 @@ h4{
     color: #FD6E0A;
  }
 
+
+.hero{
+    margin: 120px 0px 50px 0px;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
 .social-media{
     margin: 60px 210px 80px 210px;
     display: flex;
