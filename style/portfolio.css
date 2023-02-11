@@ -157,8 +157,6 @@ h4{
  ***************************************/
 
 
-
-
  .footer-section{
     background-color: black;
     height: 577px;
@@ -214,4 +212,36 @@ h4{
     color: #FD6E0A;
  }
 
+.social-media{
+    margin: 60px 210px 80px 210px;
+    display: flex;
+}
+ .card{
+    padding: 30px;
+    margin-top: 20px;
+    width: 300px;
+    height: 380px;
+    margin-bottom: 50px;
+    color: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+ }
+
+ .card .title{
+    color: #FD6E0A;
+    margin-bottom: 20px;
+    
+ }
+
+ .card p{
+    color: #6e6464;
+    margin-bottom: 20px;
+ }
+
+ .card button{
+    color: #FFFFFF;
+    background-color: #FD6E0A;
+    border: none;
+    padding: 10px 20px;
+ }
 
