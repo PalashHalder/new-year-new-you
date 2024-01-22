@@ -118,8 +118,6 @@ h4{
 
 /* positive-mindset style */
 
-
-
 .positive-mindset .watch{
     align-items: center;
     background-image: url(../images/watch.png);
@@ -149,6 +147,7 @@ h4{
     background-color: #FFFFFF;
     margin-left: 64px;
     margin-top: 40px;
+    border-radius: 10px:
     border: none;
 }
 
